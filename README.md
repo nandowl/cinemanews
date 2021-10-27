@@ -1,4 +1,56 @@
-<<<<<<< HEAD
+# Projetos-React
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/nandowl/cinemanews/blob/main/LICENSE)
+
+# Objetivo
+
+Desenvolver uma aplicação Web onde o usuário consiga verificar os filmes que serão lançados.
+Foi utilizado sistema de login e rotas privadas para acesso na aplicação.
+O sistema de login utiliza as tecnologia do firebase authentication com email e senha.
+A aplicação permite que o usuário selecione uma imagem de avatar JPEG ou PNG que será armazenada no Storage do FireBase.
+Foi utilizado uma ApiRest fake para funcionalidades do projeto e exibição dos filmes.
+É possível o usuário adicionar filmes a sua lista de favoritos.
+Ao abrir um filme o usuário tem acesso a imagem do filme, sinopse e três opções: Salvar nos favoritos, ver o trailer (redireciona ao youtube) e ver o elenco(redireciona ao google)
+
+# Tecnologias
+
+Para desenvolver o projeto foram utilizados:
+- JavaScript
+- React
+- ContextAPI
+- Firebase
+- FireStore
+- Storage
+- Firebase Authentication
+- ApiRest Fake
+
+Algumas dependências legais que foram utilizadas:
+
+- Axios
+- Toastify
+- React-Router-Dom
+- React Icons 
+
+# Layout Web
+
+![Optional_Text](../projetos-react/assets/cinemanews1.JPG)
+
+# Clone
+
+Caso queira verificar o aplicativo rodando em sua máquina, <br />
+basta clonar o repositório e através do terminal acessar a pasta clonada. <br />
+Como não faz sentido subir a pasta node_modules pro git, você irá perceber que a mesma está faltando. <br />
+Para resolver, muito simples, basta executar o comando "npm i -E" que todas as dependências necessárias <br />
+serão lidas no package.json e baixadas em sua máquina. Depois basta executar o projeto normalmente.
+
+# Créditos
+
+O app foi desenvolvido por Nando Piattelli (https://github.com/nandowl)
+
+<br />
+<br />
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
