@@ -32,7 +32,7 @@ Algumas dependências legais que foram utilizadas:
 
 # Layout Web
 
-![Optional_Text](../projetos-react/assets/cinemanews1.JPG)
+![Optional_Text](./assets/cinemanews1.JPG)
 
 # Clone
 
