@@ -1,0 +1,20 @@
+.footer-area {
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    border-top: 1px solid #8f8f8f;
+    padding: 20px;
+    width: 500px;
+    justify-content: center;
+}
+
+.footer-area span {
+    font-size: 1em;
+}
+
+@media screen and (max-width: 540px) {  
+
+    .footer-area {
+        display: none;
+    }
+}

@@ -1,0 +1,94 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "Thor: Love and Thunder",
+      "sinopse": "Após salvar seu povo da destruição, o Deus do Trovão cruzou o caminho de Thanos e sua missão para reunir as Joias do Infinito. ... Considerando que o longa apresentará Jane Foster como nova Thor, a trama aponta para uma aventura em que o Filho de Odin vai questionar seu papel enquanto Deus do Trovão.",
+      "foto": "https://br.web.img2.acsta.net/newsv7/21/07/08/16/11/2389033.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Black Panther: Wakanda Forever",
+      "sinopse": "Depois do grande legado do Pantera Negra, o filme explora o reino de Wakanda. A sinopse oficial ainda não foi divulgada.",
+      "foto": "https://upload.wikimedia.org/wikipedia/pt/7/7e/Black_Panther_Wakanda_Forever_logo.webp.png"
+    },
+    {
+      "id": 3,
+      "nome": "Doutor Estranho 2",
+      "sinopse": "Após os eventos de Vingadores: Ultimato, o Dr. Stephen Strange continua sua pesquisa sobre a Joia do Tempo. Mas um velho amigo que virou inimigo coloca um ponto final nos seus planos e faz com que Strange desencadeie um mal indescritível",
+      "foto": "https://br.web.img3.acsta.net/pictures/18/08/20/23/32/1683520.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "Morbius",
+      "sinopse": "Jared Leto se transforma no enigmático anti-herói, Michael Morbius. Com uma rara doença no sangue, e determinado a salvar outras pessoas com esse mesmo destino, Dr. Morbius tenta uma aposta extrema. O que antes parecia um grande sucesso se revelou como uma solução pior que a doença",
+      "foto": "https://referencianerd.com/wp-content/uploads/2020/03/Captura-de-Tela-2020-01-13-a%CC%80s-13.59.08.png"
+    },
+    {
+      "id": 5,
+      "nome": "The Batman",
+      "sinopse": "The Batman é protagonizado por Robert Pattinson (Crepúsculo) e dirigido por Matt Reeves (Planeta dos Macacos - O Confronto). Inspirado pelo movimento noir, a história acompanha o bilionário Bruce Wayne trabalhando como vigilante noturno após o assassinato de seus pais. Mas por conta de uma série de crimes, o herói precisará explorar as suas habilidades de detetive para salvar Gotham.",
+      "foto": "https://sm.ign.com/ign_pt/screenshot/default/1_yph1.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "Adão Negro",
+      "sinopse": "Adão Negro é o filme solo do anti-herói, grande antagonista de Shazam, estrelado por Dwayne Johnson, tendo sua história de origem como a de um escravo.",
+      "foto": "https://www.einerd.com.br/wp-content/uploads/2021/07/adao-negro-the-rock-dwayne.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "Avatar 2",
+      "sinopse": "A continuação de 'Avatar' vai explorar Pandora, em um novo ambiente no planeta. A história será focada nos oceanos, que serão igualmente ricos em detalhes e cheios de diversidade.",
+      "foto": "https://viciados.net/wp-content/uploads/2020/09/maxresdefault-6.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Aquaman and the Lost Kingdom",
+      "sinopse": "Ainda não há sinopse disponível para este filme. ",
+      "foto": "https://i2.wp.com/batman-news.com/wp-content/uploads/2021/09/Aquaman-and-the-Lost-Kingdom-Stealth-Suit-Featured-01.jpg?fit=1024%2C576&quality=80&strip=info&ssl=1"
+    },
+    {
+      "id": 9,
+      "nome": "Animais Fantásticos e Onde Habitam 3",
+      "sinopse": "Fantastic Beasts 3 é um futuro filme de fantasia e aventura dirigido por David Yates a partir de um roteiro de JK Rowling e Steve Kloves e uma história de Rowling. pertencente ao universo de Harry Potter. ",
+      "foto": "https://img.olhardigital.com.br/wp-content/uploads/2021/09/Animais-Fantasticos-e-Onde-Habitam-3-Os-Segredos-de-Dumbledore-1024x537.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "Hotel Transilvânia: Transformonstrão",
+      "sinopse": "A nova invenção de Van Helsing transforma Drac e os amigos em humanos, e Johnny em um monstro. Agora, Drac deve encontrar uma maneira de reverter o feitiço antes que a mudança se torne permanente.",
+      "foto": "https://br.web.img3.acsta.net/pictures/21/06/15/18/40/0411925.jpg"
+    },
+    {
+      "id": 11,
+      "nome": "Jurassic World 3",
+      "sinopse": "A sequência do filme Jurassic World, a sexta parcela da série Jurassic Park e o terceiro filme da série Jurassic World.",
+      "foto": "https://img.olhardigital.com.br/wp-content/uploads/2021/06/jurassic-world.jpg"
+    },
+    {
+      "id": 12,
+      "nome": "Uncharted",
+      "sinopse": "Em uma aventura épica repleta de ação que se estende por todo o mundo, os dois partem em uma perigosa busca pelo “maior tesouro nunca encontrado”, enquanto rastreiam pistas que podem levar ao paradeiro do irmão há muito perdido de Nathan.",
+      "foto": "https://br.web.img2.acsta.net/pictures/20/10/22/17/25/5041260.jpg"
+    },
+    {
+      "id": 13,
+      "nome": "The Flash",
+      "sinopse": "The Flash é o filme solo do herói estrelado pelo ator Ezra Miller que irá abordar o arco Flashpoint das HQs, explorando o conceito multiverso na linha do tempo alternativa.",
+      "foto": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/08/22/the-flash.jpg"
+    },
+    {
+      "id": 14,
+      "nome": "Transformers - O Despertar das Feras",
+      "sinopse": "Nos anos 1990, Maximals, Predacons e Terrorcons se juntam à batalha entre Autobots e Decepticons.",
+      "foto": "https://ovicio.com.br/wp-content/uploads/2021/06/20210628-ron-perlman-transformers-rise-of-the-beasts-social.jpg"
+    },
+    {
+      "id": 15,
+      "nome": "John Wick 4",
+      "sinopse": "O quarto filme de John Wick foi adiado para 27 de maio de 2022, por conta da pandemia do coronavírus. Na trama, o assassino John Wick sai de sua aposentadoria quando o cachorro que ganhou de sua falecida esposa é morto.",
+      "foto": "https://odefensor.com.br/site/wp-content/uploads/2021/04/John-Wick-4.jpg"
+    }    
+  ]
+}
