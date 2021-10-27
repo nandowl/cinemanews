@@ -3,7 +3,7 @@
 
 # Objetivo
 
-Desenvolver uma aplicação Web onde o usuário consiga verificar os filmes que serão lançados.
+Desenvolver uma aplicação Web (Com responsividade Mobile) onde o usuário consiga verificar os filmes que serão lançados.
 Foi utilizado sistema de login e rotas privadas para acesso na aplicação.
 O sistema de login utiliza as tecnologia do firebase authentication com email e senha.
 A aplicação permite que o usuário selecione uma imagem de avatar JPEG ou PNG que será armazenada no Storage do FireBase.
@@ -46,13 +46,25 @@ Algumas dependências legais que foram utilizadas:
 
 ## Profile
 ![Optional_Text](./assets/cinemanews6.JPG)
-# Clone
 
-Caso queira verificar o aplicativo rodando em sua máquina, <br />
-basta clonar o repositório e através do terminal acessar a pasta clonada. <br />
-Como não faz sentido subir a pasta node_modules pro git, você irá perceber que a mesma está faltando. <br />
-Para resolver, muito simples, basta executar o comando "npm i -E" que todas as dependências necessárias <br />
-serão lidas no package.json e baixadas em sua máquina. Depois basta executar o projeto normalmente.
+
+---------------------------------------------------------------------------
+
+# Layout Mobile
+
+## Home
+![Optional_Text](./assets/cinemanewsmobile1.JPG)
+
+## Filme
+![Optional_Text](./assets/cinemanewsmobile2.JPG)
+
+## Favoritos
+![Optional_Text](./assets/cinemanewsmobile3.JPG)
+
+## Profile
+![Optional_Text](./assets/cinemanewsmobile4.JPG)
+
+----------------------------------------------------------------------------------------------
 
 # Créditos
 
