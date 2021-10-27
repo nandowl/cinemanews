@@ -32,8 +32,20 @@ Algumas dependências legais que foram utilizadas:
 
 # Layout Web
 
-![Optional_Text](./assets/cinemanews1.JPG)
+## Login e Cadastro
+![Optional_Text](./assets/cinemanews1.JPG)![Optional_Text](./assets/cinemanews2.JPG)
 
+## Home
+![Optional_Text](./assets/cinemanews3.JPG)
+
+## Filme
+![Optional_Text](./assets/cinemanews4.JPG)
+
+## Favoritos
+![Optional_Text](./assets/cinemanews5.JPG)
+
+## Profile
+![Optional_Text](./assets/cinemanews6.JPG)
 # Clone
 
 Caso queira verificar o aplicativo rodando em sua máquina, <br />
