@@ -11,6 +11,9 @@ Foi utilizado uma ApiRest fake para funcionalidades do projeto e exibição dos 
 É possível o usuário adicionar filmes a sua lista de favoritos.
 Ao abrir um filme o usuário tem acesso a imagem do filme, sinopse e três opções: Salvar nos favoritos, ver o trailer (redireciona ao youtube) e ver o elenco(redireciona ao google)
 
+# App Hospedado no NETLIFY:
+https://cinemanews.netlify.app
+
 # Tecnologias
 
 Para desenvolver o projeto foram utilizados:
