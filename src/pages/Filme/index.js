@@ -73,7 +73,7 @@ export default function Filme() {
                     <h3>Sinopse do Filme:</h3>
                     {filme.sinopse}
                 </div>
-                <div className="botoes">
+                <div className="buttons">
                     <button onClick={salvarFilme}>Salvar</button>
                     <button>
                         <a target="blank" href={`https://youtube.com/results?search_query=${filme.nome} Trailer`}>

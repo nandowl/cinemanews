@@ -36,7 +36,7 @@
     font-size: 1.2em;
 }
 
-.filme-info button {
+.buttons button {
     margin: 15px 10px 0px 0px;
     cursor: pointer;
     border-radius: 5px;
@@ -47,7 +47,7 @@
     transition: all 0.5s;
 }
 
-.filme-info button:hover {
+.buttons button:hover {
     background-color: #7c7c7c;
     color: #fff;
 }
@@ -75,6 +75,11 @@
         flex-direction: column;
         width: 340px;
         color: #FFF;
+        margin-top: 15%;
+    }
+
+    .filme-info h1 {
+        display: none;
     }
     
     .filme-info img {
@@ -91,7 +96,8 @@
         font-size: 1.2em;
     }
     
-    .filme-info button {
+    .buttons button {
         margin-left: 18px;
+        margin-bottom: 5%;
     }
 }
